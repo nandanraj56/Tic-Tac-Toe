@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513106500 source:c:\users\nandan raj\documents\c project\tic tac toe\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
